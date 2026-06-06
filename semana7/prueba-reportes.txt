@@ -1,0 +1,1 @@
+Al enviar un reporte mediante la ruta POST /reportes, la información se guarda temporalmente en el array reportes. Cuando se consulta la ruta GET /reportes, el servidor devuelve la lista de reportes registrados. Esto permite visualizar todos los reportes almacenados mientras el servidor permanece en ejecución.
